@@ -1,0 +1,1 @@
+This project presents an interactive Power BI dashboard developed to analyze a dataset and uncover meaningful insights through data visualization. The dashboard highlights patterns, trends, and key metrics to support data-driven decision making.
