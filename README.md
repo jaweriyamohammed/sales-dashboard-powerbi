@@ -18,3 +18,8 @@ Screenshots of the dashboard are available in the images folder.
 
 Objective
 The goal of this project is to demonstrate the use of Power BI for transforming raw data into meaningful visual insights through an interactive dashboard.
+## Dashboard Preview
+
+![Dashboard Overview](images/dashboard_overview.png)
+
+![Sales Analysis](images/sales_analysis.png)
